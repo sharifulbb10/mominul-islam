@@ -1,0 +1,98 @@
+/* header */
+
+* {
+				margin: 0;
+				padding: 0;
+				}
+header {
+				background-color: #ca7612;
+				color: #ffffff;
+				padding-top: 30px;
+				padding-bottom: 20px;
+				min-height: 80px;
+				overflow: hidden;
+				border-bottom: 4px solid #d1dcff;
+				}
+header h1 {
+				margin: 0;
+				float: left;
+				padding-left: 15px;
+				}
+.sub {
+				font-size: .9em;
+				color: #d1dcff;
+				background-color: #ff1723;
+				}
+header nav {
+				float: right;
+				margin-top: 25px;
+				margin-right: 45px;
+				}
+header nav ul li {
+				display: inline;
+				float: left;
+				padding: 0 10px;
+				}
+header nav ul li a {
+				text-decoration: none;
+				boder: 0px solid;
+				padding: 15px 5px;
+				color: white;
+				font-weight: bold;
+				font-size: 16px;
+				}
+.showcase {
+				background: url('mominul.jpg') no-repeat;
+				min-height: 600px;
+				background-position: center;
+				background-size: cover;
+				border-bottom: 4px solid #d1dcff;
+				font-family: sans-serif;
+				}
+.textcenter {
+				text-align: center;
+				padding-top: 250px;
+				color: #ffffff;
+				}
+.active {
+				color: #d1dcff;
+				}
+footer {
+				background-color: #ca7612;
+				color: #ffffff;
+				text-align: center;
+				padding: 30px;
+				}
+.tab-content {
+			 display: flex;
+			 justify-content: center;
+			 padding-top: 20px;
+			 background-color: #d1dcff;
+			 }
+.table {
+				display: table;
+				justify-content: center;
+				text-align: center;
+				border-spacing: 15px;
+				}
+.table-cap {
+				display: table-caption;
+				}
+.table-cell {
+				display: table-cell;
+				padding: 30px 5px;
+				vertical-align: center;
+				}
+.table-row {
+				display: table-row;
+				}
+.bold {
+				font-weight: bold;
+				font-size: 1.2em;
+				}
+.container2 {
+				background: url('contact.jpeg') no-repeat;
+				background-size: cover;
+				background-position: center;
+				min-height: 700px;
+				}
